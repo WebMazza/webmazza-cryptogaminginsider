@@ -8,7 +8,7 @@ Next.js was chosen for this project for several reasons. First, to expand my kno
 
 The website features a clean and modern design with a responsive layout built using Tailwind CSS. It includes a homepage with all blog posts, as well as dedicated pages for individual blog posts. 💻
 
-_Note_: The reviews refer to **fake websites**, with the only purpose of show my skills as a developer and copywriter.
+_Note_: The reviews of crypto betting and gambling websites refer to **fake websites**, with the only purpose of show my skills as a developer and copywriter.
 
 <br/>
 
