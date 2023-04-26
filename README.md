@@ -2,7 +2,7 @@
 
 <br/>
 
-This project is a Next.js-built blog website focused on crypto betting and gambling. 🎲 🎰 🃏
+This project is a _Next.js-built_ blog website focused on crypto betting and gambling. 🎲 🎰 🃏
 
 Next.js was chosen for this project for several reasons. First, to expand my knowledge as a front-end developer. 📚🤓 Also, it provides a powerful server-side rendering (SSR) feature, which improves the website's performance and user experience by generating HTML pages on the server instead of relying solely on client-side rendering. This makes the website faster to load and more SEO-friendly. 🔍
 
