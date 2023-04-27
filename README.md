@@ -4,7 +4,7 @@
 
 This project is a _Next.js-built_ blog website focused on crypto betting and gambling. 🎲 🎰 🃏
 
-Next.js was chosen for this project for several reasons. First, to expand my knowledge as a front-end developer. 📚🤓 Also, it provides a powerful server-side rendering (SSR) feature, which improves the website's performance and user experience by generating HTML pages on the server instead of relying solely on client-side rendering. This makes the website faster to load and more SEO-friendly. 🔍
+Next.js was chosen for this project for several reasons. First, to expand my knowledge as a front-end developer. 📚🤓 Also, it provides a powerful static site generation (SSG) feature, which improves the website's performance and user experience by generating HTML pages at build time and served as static files to the user. This makes the website faster to load and more SEO-friendly. 🔍
 
 The website features a clean and modern design with a responsive layout built using Tailwind CSS. It includes a homepage with all blog posts, as well as dedicated pages for individual blog posts. 💻
 
